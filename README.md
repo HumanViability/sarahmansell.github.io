@@ -1,3 +1,14 @@
+## AI Human Safety Standard — meOS™
+
+Defines minimum admissibility conditions for artificial system deployment affecting human biological regulation.
+
+[Standard](https://humanviability.github.io/ai-human-safety-standard-meos/)
+
+[Governance and Stewardship](https://github.com/HumanViability/ai-human-safety-standard-meos/blob/main/governance.html)
+
+
+
+---
 # meOS™
 
 A biological systems framework governing interaction between artificial intelligence and living regulatory systems.
@@ -151,25 +162,6 @@ This is an environmental governance layer rather than a performance layer.
 
 ---
 
-## Standard
-
-**AI Human Safety Standard — meOS™**
-
-Defines minimum admissibility conditions for artificial system deployment affecting human biological regulation.
-
-Authoritative version  
-[View the Standard](https://humanviability.github.io/ai-human-safety-standard-meos/)
-
-Governance and stewardship  
-[Governance document](https://github.com/HumanViability/ai-human-safety-standard-meos/blob/main/governance.html)
-
-Version registry (official releases)  
-[Release history](https://github.com/HumanViability/ai-human-safety-standard-meos/releases)
-
-
-
----
-
 ## Research
 
 Published theoretical foundations:
@@ -262,9 +254,6 @@ All framework definitions, standards, and associated materials are protected int
 ## Standards Governance
 
 The AI Human Safety Standard — meOS™ is maintained as a versioned public standard.
-
-Authoritative repository  
-https://github.com/HumanViability/ai-human-safety-standard-meos
 
 Official releases  
 https://github.com/HumanViability/ai-human-safety-standard-meos/releases
