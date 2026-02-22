@@ -4,7 +4,7 @@ Defines minimum admissibility conditions for artificial system deployment affect
 
 [Standard](https://humanviability.github.io/ai-human-safety-standard-meos/)
 
-[Governance and Stewardship](https://github.com/HumanViability/ai-human-safety-standard-meos/blob/main/governance.html)
+[Governance and Stewardship](https://humanviability.github.io/ai-human-safety-standard-meos/governance.html)
 
 
 
