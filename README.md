@@ -169,7 +169,7 @@ This is an environmental governance layer rather than a performance layer.
 Defines minimum admissibility conditions for artificial system deployment affecting human biological regulation.
 
 Authoritative version  
-PASTE STANDARD REPOSITORY LINK
+(https://github.com/HumanViability/ai-human-safety-standard-meos/blob/main/index.html)
 
 Governance and stewardship  
 PASTE GOVERNANCE FILE LINK
