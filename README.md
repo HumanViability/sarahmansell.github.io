@@ -4,6 +4,8 @@ A biological systems framework governing interaction between artificial intellig
 
 A constraint-first model of intelligence grounded in planetary, biological, and regulatory law.
 
+Framework version: 1.0 (2026)
+
 
 
 ---
@@ -30,7 +32,7 @@ This axiom defines the admissibility condition for system continuation.
 All constructs within meOS™ are derived relative to constraint-bounded viability.
 
 **Citation form**  
-Mansell SA (2026). Viability-Constrained Reality Axiom. meOS™ Framework.
+Mansell SA, Whittaker AE (2026). Viability-Constrained Reality Axiom. meOS™ Framework.
 
 
 
@@ -110,13 +112,9 @@ Existing artificial intelligence is typically organised by computational functio
 | Machine Learning | Statistical optimisation | No biological constraint model |
 | Reinforcement Learning | Reward maximisation | External objective dependent |
 | Generative AI | Probabilistic synthesis | No regulatory environment model |
-| Control Systems | Stability regulation | Mechanical / engineered scope |
+| Control Systems | Stability regulation | Mechanical or engineered scope |
 | Autonomous Agents | Goal pursuit | Environment treated as task space |
 | Alignment Frameworks | Behaviour shaping | Psychological or normative focus |
-
-These categories model performance, prediction, or behaviour.
-
-They do not model viability within living regulatory systems.
 
 Artificial Regulatory Ecology introduces a system class defined by:
 
@@ -131,28 +129,19 @@ Artificial Regulatory Ecology introduces a system class defined by:
 
 ## Relationship to Major Technological Approaches
 
-Different technology leaders operate at different structural layers.
+Many advanced technology initiatives extend intelligence into physical or computational environments.
 
-### Optimisation-Driven AI
-Focus: capability scaling, performance, general intelligence.
+Examples include:
 
-Example orientation:
-- large-scale model training  
-- autonomous decision systems  
-- predictive and generative architectures  
-
-### Physical-Infrastructure Intelligence
-Focus: embedding intelligence into engineered environments.
-
-Example orientation:
-- autonomous vehicles  
-- robotics  
-- energy and industrial control  
+- large-scale model intelligence  
+- autonomous mobility systems  
+- robotics and industrial control  
 - brain-machine interfaces  
+- planetary infrastructure systems  
 
-These approaches extend intelligence into the world.
+These expand where intelligence operates.
 
-Artificial Regulatory Ecology evaluates whether such systems are admissible within biological regulatory environments.
+Artificial Regulatory Ecology defines the conditions under which such systems are biologically admissible within living regulatory environments.
 
 It operates at the level of **system-biosphere compatibility**, not capability expansion.
 
@@ -169,13 +158,13 @@ This is an environmental governance layer rather than a performance layer.
 Defines minimum admissibility conditions for artificial system deployment affecting human biological regulation.
 
 Authoritative version  
-(https://github.com/HumanViability/ai-human-safety-standard-meos/blob/main/index.html)
+[View the Standard](https://github.com/HumanViability/ai-human-safety-standard-meos/blob/main/index.html)
 
 Governance and stewardship  
-PASTE GOVERNANCE FILE LINK
+[Governance document](https://github.com/HumanViability/ai-human-safety-standard-meos/blob/main/GOVERNANCE.md)
 
 Version registry (official releases)  
-PASTE RELEASES LINK
+[Release history](https://github.com/HumanViability/ai-human-safety-standard-meos/releases)
 
 
 
@@ -185,7 +174,23 @@ PASTE RELEASES LINK
 
 Published theoretical foundations:
 
-Paper 1 Planetary Rotation and the Evolutionary Purpose of Nervous Systems https://zenodo.org/records/18395159 DOI 10.5281/zenodo.18395158
+Paper 1 — Planetary Rotation and the Evolutionary Purpose of Nervous Systems  
+[Read on Zenodo](https://zenodo.org/records/18395159)  
+DOI: 10.5281/zenodo.18395158
+
+
+
+---
+
+## Framework Origin and Development
+
+Framework originator and architect  
+Sarah A. Mansell
+
+Foundational algorithm developer  
+Allan E. Whittaker
+
+Conceptual development involved iterative technical and theoretical exchange between the authors during formation of the framework.
 
 
 
@@ -194,14 +199,72 @@ Paper 1 Planetary Rotation and the Evolutionary Purpose of Nervous Systems https
 ## Contact
 
 Sarah A. Mansell  
-sarah.mansell@gmail.com
+[Email](mailto:sarah.mansell@gmail.com)
 
-LinkedIn  
-www.linkedin.com/in/sarahmansell
+Professional profile  
+[LinkedIn](https://www.linkedin.com/in/sarahmansell)
 
 
 
 ---
 
-© 2026 Sarah A. Mansell. All rights reserved.  
+## Citation Guidance
+
+When referencing the framework, cite as:
+
+Mansell SA, Whittaker AE (2026). *meOS™ Framework*.  
+Foundational axiom: Viability-Constrained Reality Axiom.  
+Scientific domain: Artificial Regulatory Ecology.
+
+
+
+---
+
+## Scope of the Framework
+
+meOS™ applies to interactions between artificial systems and living regulatory processes.
+
+It defines admissibility conditions, not implementation methods.
+
+It governs:
+
+- system-biosphere interaction  
+- regulatory solvency effects  
+- viability compatibility  
+- persistence conditions  
+
+
+
+---
+
+## Establishment of Scientific Field
+
+The meOS™ framework defines the formal basis of the discipline of Artificial Regulatory Ecology.
+
+Field established through the architectural work of Sarah A. Mansell and the foundational algorithmic development of Allan E. Whittaker.
+
+
+
+---
+
+## Legal and Trademark Notice
+
+© 2026 Sarah A. Mansell and Allan E. Whittaker. All rights reserved.
+
 meOS™ is a registered trademark in the United Kingdom.
+
+All framework definitions, standards, and associated materials are protected intellectual property unless otherwise stated.
+
+
+
+---
+
+## Standards Governance
+
+The AI Human Safety Standard — meOS™ is maintained as a versioned public standard.
+
+Authoritative repository  
+https://github.com/HumanViability/ai-human-safety-standard-meos
+
+Official releases  
+https://github.com/HumanViability/ai-human-safety-standard-meos/releases
